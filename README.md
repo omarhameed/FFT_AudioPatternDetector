@@ -26,3 +26,12 @@ To run the compiled program:
 ```
 ./waveprocessor
 ```
+📚 Usage
+Upon running the program, follow the prompts to interact with various functionalities:
+
+- Press [P]: Print the wave file header information.
+- Press [L]: Loop the first track.
+- Press [C]: Convert the file to mono.
+- Press [M]: Merge two files.
+- Press [S]: Print the signature of the files.
+- Press [X]: Exit the program.
