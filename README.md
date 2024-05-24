@@ -26,8 +26,9 @@ To run the compiled program:
 ```
 ./waveprocessor
 ```
-📚 Usage
-Upon running the program, follow the prompts to interact with various functionalities:
+# 📚 Usage
+
+-    Upon running the program, follow the prompts to interact with various functionalities:
 
 - Press [P]: Print the wave file header information.
 - Press [L]: Loop the first track.
