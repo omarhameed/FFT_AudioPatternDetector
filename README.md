@@ -1,5 +1,26 @@
 # 🎵 WaveProcessor README 🎵
 
+Welcome to **WaveProcessor**! This project provides a set of tools for processing and analyzing WAV audio files. It includes functionality for Fast Fourier Transform (FFT), identifying maximum values, reading audio data, and performing various audio manipulations such as converting stereo to mono, looping tracks, and merging files.
+
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Installation](#installation)
+3. [Usage](#usage)
+    - [FFT Processing](#fft-processing)
+    - [Audio Data Reading](#audio-data-reading)
+    - [Audio Manipulation](#audio-manipulation)
+4. [Files Overview](#files-overview)
+5. [License](#license)
+
+## Introduction
+
+WaveProcessor is designed to help users perform advanced audio processing tasks. It includes the following features:
+- FFT for signal analysis
+- Maximum value identification in FFT results
+- Reading audio data from WAV files
+- Audio manipulations such as stereo to mono conversion, looping tracks, and merging audio files
+- Signature comparison for audio snippet matching
 ## 📜 Description
 
 WaveProcessor is a powerful tool designed to perform Fast Fourier Transform (FFT) on signal data, extract frequency components, and identify maximum frequency indices. It features functionalities for reading wave file data, processing it, and performing various audio editing tasks.
