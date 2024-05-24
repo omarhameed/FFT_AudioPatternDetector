@@ -23,4 +23,6 @@ g++ -o waveprocessor main.cpp Signture.cpp data.cpp edit.cpp -lm
 ```
 #  🚀 Execution
 To run the compiled program:
+```
 ./waveprocessor
+```
