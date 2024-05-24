@@ -28,7 +28,7 @@ To run the compiled program:
 ```
 # 📚 Usage
 
--    Upon running the program, follow the prompts to interact with various functionalities:
+Upon running the program, follow the prompts to interact with various functionalities:
 
 - Press [P]: Print the wave file header information.
 - Press [L]: Loop the first track.
