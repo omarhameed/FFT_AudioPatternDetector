@@ -5,13 +5,11 @@ Welcome to **WaveProcessor**! This project provides a set of tools for processin
 ## Table of Contents
 
 1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-    - [FFT Processing](#fft-processing)
-    - [Audio Data Reading](#audio-data-reading)
-    - [Audio Manipulation](#audio-manipulation)
-4. [Files Overview](#files-overview)
-5. [License](#license)
+2. [Installation](#Description)
+3. [Files](#Files)
+4. [Compilation](#Compilation)
+5. [Execution](#Execution)
+6. [Usage](#Usage)
 
 ## Introduction
 
@@ -42,12 +40,12 @@ To compile the program, use a C++ compiler. For example:
 ```sh
 g++ -o waveprocessor main.cpp Signture.cpp data.cpp edit.cpp -lm
 ```
-#  🚀 Execution
+##  🚀 Execution
 To run the compiled program:
 ```
 ./waveprocessor
 ```
-# 📚 Usage
+## 📚 c
 
 Upon running the program, follow the prompts to interact with various functionalities:
 
