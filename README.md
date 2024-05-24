@@ -1,4 +1,26 @@
-# The-Sleezy-Music-Company
-# System analysis Term Project {Dalhousie University}
-C++ application that measures the level of plagiarism between two songs or beats and creates a unique signature for each beat or song using the Fast Fourier transform.
+# 🎵 WaveProcessor README 🎵
 
+## 📜 Description
+
+WaveProcessor is a powerful tool designed to perform Fast Fourier Transform (FFT) on signal data, extract frequency components, and identify maximum frequency indices. It features functionalities for reading wave file data, processing it, and performing various audio editing tasks.
+
+## 📁 Files
+
+- **Signture.cpp**: Implements FFT and related functions.
+- **Signture.h**: Header file for `Signture` class.
+- **data.cpp**: Reads and processes data from wave files.
+- **data.h**: Header file for `data` class.
+- **edit.cpp**: Contains functions for audio editing.
+- **edit.h**: Header file for `edit` class.
+- **main.cpp**: Contains the main function for program execution.
+
+## 🛠️ Compilation
+
+To compile the program, use a C++ compiler. For example:
+
+```sh
+g++ -o waveprocessor main.cpp Signture.cpp data.cpp edit.cpp -lm
+```
+#  🚀 Execution
+To run the compiled program:
+./waveprocessor
